@@ -74,20 +74,6 @@ The project demonstrates practical knowledge of serverless architecture, cloud s
 
 ---
 
-## Folder Structure
-
-```
-aws-serverless-resume-website
-│
-├── index.html
-├── style.css
-├── script.js
-├── lambda_function.py
-├── README.md
-└── screenshots/
-```
-
----
 
 ## Challenges Faced
 
@@ -170,15 +156,6 @@ aws-serverless-resume-website
 
 ---
 
-## Visitor Counter
-
-![Visitor Counter](screenshots/visitor-counter.png)
-
-## Author
-
-Jeeva
-
-Aspiring DevOps Engineer
 
 Skills:
 
