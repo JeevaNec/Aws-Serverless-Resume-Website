@@ -8,32 +8,6 @@ The project demonstrates practical knowledge of serverless architecture, cloud s
 
 ---
 
-## Architecture
-
-```
-                User
-                  │
-                  ▼
-            CloudFront CDN
-                  │
-                  ▼
-          Amazon S3 Website
-                  │
-                  ▼
-           JavaScript Fetch API
-                  │
-                  ▼
-             API Gateway
-                  │
-                  ▼
-             AWS Lambda
-                  │
-                  ▼
-              DynamoDB
-```
-
----
-
 ## AWS Services Used
 
 | Service | Purpose |
@@ -108,7 +82,7 @@ The project demonstrates practical knowledge of serverless architecture, cloud s
 - Terraform Automation
 - CI/CD using GitHub Actions
 - CloudWatch Monitoring
-- Infrastructure as Code
+
 
 ---
 
